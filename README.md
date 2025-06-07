@@ -18,6 +18,6 @@ Here's the [Live Demo](https://x.com/Neutron975/status/1886384169607160105) on X
 
 
 
-**Contract Address of the Betting Program(Devnet): `JkF3zxfbf7pvwqbyCvYActhnqYgiw2iCaht5JvKSrVY`**
+**Contract Address of the Betting Program(Devnet): `AiNzmnpezs4i1zacsWMHChsRRW2rr3hQ66xdUWi6S5w1`**
 
 
